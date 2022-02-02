@@ -33,12 +33,16 @@ public class SpringBootBackendApplication extends  SpringBootServletInitializer 
 	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootBackendApplication.class, args);
+		
+		
+		
+		System.out.println("Hello from DUB 30");
+		System.out.println("Hello 1 from DUB 30");
+		System.out.println("Hello 2 from DUB 30");
+		System.out.println("Hello 3 from DUB 30");
 
+		System.out.println("Hello updated 3 from DUB 30");
 
-		System.out.println("Code from DUB 30");
-		System.out.println("Code1 from DUB 30");
-		System.out.println("Code2 from DUB 30");
-		System.out.println("Code3 from DUB 30");
 	}
 
 	
